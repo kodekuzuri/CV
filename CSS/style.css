@@ -4,11 +4,12 @@ body {
 }
 
 h1 {
-  color: #6930c3 ;
+  color: #09015f ;
+  /*6930c3*/
 }
 
 h3 {
-  color: #6930c3 ;
+  color: #09015f ;
 }
 
 hr {
@@ -19,3 +20,16 @@ hr {
  /* height: 0px; */
   width: 90%;
 }
+
+.intro {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+table {
+  padding: 10px;
+}
+/*
+prev. color = #6930c3 
+*/
